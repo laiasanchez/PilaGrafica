@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\lsanc\\PilaGrafica\\PilaGrafica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3683C504-D270-4042-9E9F-FC6920BD5B5A}|PilaGrafica\\PilaGrafica.csproj|c:\\users\\lsanc\\pilagrafica\\pilagrafica\\pilagrafica\\compilador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3683C504-D270-4042-9E9F-FC6920BD5B5A}|PilaGrafica\\PilaGrafica.csproj|solutionrelative:pilagrafica\\compilador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3683C504-D270-4042-9E9F-FC6920BD5B5A}|PilaGrafica\\PilaGrafica.csproj|c:\\users\\lsanc\\pilagrafica\\pilagrafica\\pilagrafica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3683C504-D270-4042-9E9F-FC6920BD5B5A}|PilaGrafica\\PilaGrafica.csproj|solutionrelative:pilagrafica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3683C504-D270-4042-9E9F-FC6920BD5B5A}|PilaGrafica\\PilaGrafica.csproj|c:\\users\\lsanc\\pilagrafica\\pilagrafica\\pilagrafica\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3683C504-D270-4042-9E9F-FC6920BD5B5A}|PilaGrafica\\PilaGrafica.csproj|solutionrelative:pilagrafica\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3683C504-D270-4042-9E9F-FC6920BD5B5A}|PilaGrafica\\PilaGrafica.csproj|C:\\Users\\lsanc\\PilaGrafica\\PilaGrafica\\pilagrafica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +42,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "C:\\Users\\lsanc\\PilaGrafica\\PilaGrafica\\PilaGrafica\\Pila.cs",
+              "RelativeDocumentMoniker": "PilaGrafica\\Pila.cs",
+              "ToolTip": "C:\\Users\\lsanc\\PilaGrafica\\PilaGrafica\\PilaGrafica\\Pila.cs",
+              "RelativeToolTip": "PilaGrafica\\Pila.cs",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:04:40.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Compilador.cs",
+              "DocumentMoniker": "C:\\Users\\lsanc\\PilaGrafica\\PilaGrafica\\PilaGrafica\\Compilador.cs",
+              "RelativeDocumentMoniker": "PilaGrafica\\Compilador.cs",
+              "ToolTip": "C:\\Users\\lsanc\\PilaGrafica\\PilaGrafica\\PilaGrafica\\Compilador.cs",
+              "RelativeToolTip": "PilaGrafica\\Compilador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:03:22.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lsanc\\PilaGrafica\\PilaGrafica\\PilaGrafica\\Program.cs",
               "RelativeDocumentMoniker": "PilaGrafica\\Program.cs",
@@ -47,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\lsanc\\PilaGrafica\\PilaGrafica\\PilaGrafica\\Form1.cs",
               "RelativeDocumentMoniker": "PilaGrafica\\Form1.cs",
