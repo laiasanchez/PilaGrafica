@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{3683C504-D270-4042-9E9F-FC6920BD5B5A}|PilaGrafica\\PilaGrafica.csproj|solutionrelative:pilagrafica\\compilador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3683C504-D270-4042-9E9F-FC6920BD5B5A}|PilaGrafica\\PilaGrafica.csproj|c:\\users\\lsanc\\pilagrafica\\pilagrafica\\pilagrafica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3683C504-D270-4042-9E9F-FC6920BD5B5A}|PilaGrafica\\PilaGrafica.csproj|C:\\Users\\lsanc\\PilaGrafica\\PilaGrafica\\pilagrafica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3683C504-D270-4042-9E9F-FC6920BD5B5A}|PilaGrafica\\PilaGrafica.csproj|solutionrelative:pilagrafica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3683C504-D270-4042-9E9F-FC6920BD5B5A}|PilaGrafica\\PilaGrafica.csproj|c:\\users\\lsanc\\pilagrafica\\pilagrafica\\pilagrafica\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3683C504-D270-4042-9E9F-FC6920BD5B5A}|PilaGrafica\\PilaGrafica.csproj|C:\\Users\\lsanc\\PilaGrafica\\PilaGrafica\\pilagrafica\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3683C504-D270-4042-9E9F-FC6920BD5B5A}|PilaGrafica\\PilaGrafica.csproj|solutionrelative:pilagrafica\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -50,8 +50,7 @@
               "RelativeToolTip": "PilaGrafica\\Pila.cs",
               "ViewState": "AgIAAF0BAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T10:04:40.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T10:04:40.749Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "PilaGrafica\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T09:53:04.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T09:53:04.353Z"
             },
             {
               "$type": "Document",
